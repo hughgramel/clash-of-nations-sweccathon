@@ -3,13 +3,6 @@ Demo: https://youtube.com/shorts/nAOBHJdSWW0?si=7FuiB8lojU4RU6aD
 # sweccathon
 A mobile-first strategy simulation game where players guide a nation through real-time historical development. Built with Flutter, the game features a province-based SVG map, daily tick progression, discrete unit movement, and military front management. Designed to be cross-platform and offline-first for now. 
 
-
-# Flutter Strategy Game Development Guide (Mobile, Offline-First)
-
-This documentation outlines how to build a mobile strategy simulation game using Flutter. The game is designed with a time-based progression system (e.g., January 1st to January 2nd), a province-based map (SVG), and discrete unit movements and battles. It's designed to run offline-first with the option to expand into online sync later.
-
----
-
 ## 1. Project Overview
 
 **Game Type**: 2D Strategy Simulation  
